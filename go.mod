@@ -1,3 +1,3 @@
-module github.com/MaGaroo/test-go-bin/v2 v2.0.0
+module github.com/MaGaroo/test-go-bin
 
 go 1.20
